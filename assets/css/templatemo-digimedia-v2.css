@@ -2100,3 +2100,14 @@ responsive
     padding: 30px;
   }
 }
+footer .container a {
+  color: white;
+  text-decoration: none;
+  text-weight: bolder !important;
+}
+footer .container a:hover {
+  color: rgb(225, 170, 170);
+  text-decoration: underline !important;
+  text-weight: bold !important;
+  transition: all 0.5s ease;
+}
